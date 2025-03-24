@@ -1,0 +1,6 @@
+Flask==2.2.5
+opencv-python==4.8.0.76
+torch==2.1.0
+ultralytics==8.0.20
+mediapipe==0.10.3
+telepot==12.7
